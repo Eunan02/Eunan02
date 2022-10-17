@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Eunan02
-- 👀 I’m interested in Software Enigneer and Data Science
+- 👀 I’m interested in Software Development and Data Science
 - 🌱 I’m currently learning React and Springboot
 - 📫 How to reach me https://www.linkedin.com/in/eunan-diamond-7a6a411b1/
 
